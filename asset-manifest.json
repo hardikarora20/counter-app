@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hardikarora20/counter-app/static/css/main.93669f59.css",
-    "main.js": "/hardikarora20/counter-app/static/js/main.8fa33027.js",
-    "static/js/787.5863b875.chunk.js": "/hardikarora20/counter-app/static/js/787.5863b875.chunk.js",
-    "index.html": "/hardikarora20/counter-app/index.html",
-    "main.93669f59.css.map": "/hardikarora20/counter-app/static/css/main.93669f59.css.map",
-    "main.8fa33027.js.map": "/hardikarora20/counter-app/static/js/main.8fa33027.js.map",
-    "787.5863b875.chunk.js.map": "/hardikarora20/counter-app/static/js/787.5863b875.chunk.js.map"
+    "main.css": "./static/css/main.93669f59.css",
+    "main.js": "./static/js/main.b9809ae9.js",
+    "static/js/787.5863b875.chunk.js": "./static/js/787.5863b875.chunk.js",
+    "index.html": "./index.html",
+    "main.93669f59.css.map": "./static/css/main.93669f59.css.map",
+    "main.b9809ae9.js.map": "./static/js/main.b9809ae9.js.map",
+    "787.5863b875.chunk.js.map": "./static/js/787.5863b875.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93669f59.css",
-    "static/js/main.8fa33027.js"
+    "static/js/main.b9809ae9.js"
   ]
 }
